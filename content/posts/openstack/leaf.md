@@ -1,7 +1,7 @@
 ---
 title: Leaf Page
-type: docs
-prev: docs/folder/
+type: posts
+prev: posts/openstack/
 ---
 
 This page is under a folder.

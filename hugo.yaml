@@ -18,8 +18,8 @@ markup:
 
 menu:
   main:
-    - name: Docs
-      pageRef: /docs
+    - name: Posts
+      pageRef: /posts
       weight: 1
     - name: About
       pageRef: /about
@@ -33,14 +33,14 @@ menu:
         type: search
     - name: GitHub
       weight: 5
-      url: "https://github.com/kjw3"
+      url: "https://github.com/kjw3/kevinjones.dev"
       params:
         icon: github
 
 params:
   navbar:
     displayTitle: true
-    displayLogo: false
+    displayLogo: true
 
   footer:
     displayCopyright: false
