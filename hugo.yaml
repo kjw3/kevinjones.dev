@@ -40,10 +40,15 @@ menu:
 params:
   navbar:
     displayTitle: true
-    displayLogo: false
+    displayLogo: true
+    logo:
+      path: images/kjw3-logo.png
+      link: /
+      width: 40
+      height: 20
 
   footer:
-    displayCopyright: false
+    displayCopyright: true
     displayPoweredBy: false
 
   editURL:
