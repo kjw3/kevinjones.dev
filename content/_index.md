@@ -1,5 +1,5 @@
 ---
-title: KevinJones.dev
+title: kevinjones.dev
 toc: false
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: KevinJones.dev Technology Blog
+title: Blog
 type: docs
 next: posts/kubernetes/
 ---

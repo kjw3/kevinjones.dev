@@ -1,5 +1,5 @@
 # Hugo configuration file
-title: KevinJones.dev
+title: kevinjones.dev
 
 baseURL: "https://kevinjones.dev/"
 
@@ -20,7 +20,7 @@ markup:
 
 menu:
   main:
-    - name: Posts
+    - name: Blog
       pageRef: /posts
       weight: 1
     - name: About
