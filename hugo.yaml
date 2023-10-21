@@ -65,5 +65,5 @@ params:
     displayPoweredBy: false
 
   editURL:
-    enable: true
+    enable: false
     base: "https://github.com/kjw3/kevinjones.dev/edit/main/content"
