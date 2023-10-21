@@ -3,7 +3,7 @@ title: "Deploying RDO OpenStack in a Cohesive Manner. Part 2: Overcloud Deployme
 weight: 5
 type: docs
 prev: posts/openstack/deploying-rdo-in-a-cohesive-manner
-next: posts/random/
+next: posts/openstack/deploying-rdo-openstack-in-a-cohesive-manner-part-3-overcloud-post-configuration-and-validation
 sidebar:
   open: true
 ---
