@@ -1,6 +1,8 @@
 ---
 title: Introduction to OpenShift Virtulization
-prev: posts/openshift/
+type: docs
+prev: posts/first-page
+next: posts/openshift/leaf
 sidebar:
   open: true
 ---

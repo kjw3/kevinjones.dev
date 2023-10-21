@@ -1,6 +1,6 @@
 ---
 title: Working with Kubevirt Common Templates
-type: posts
+type: docs
 prev: posts/openshift/
 sidebar:
   open: true

@@ -1,6 +1,6 @@
 ---
 title: Setup Containerized Data Importer (CDI) for Kubevirt
-type: posts
+type: docs
 prev: posts/openshift/
 sidebar:
   open: true
