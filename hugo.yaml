@@ -1,7 +1,7 @@
 # Hugo configuration file
 title: KevinJones.dev
 
-baseURL: "/"
+baseURL: "https://kjw3.github.io/kevinjones.dev/"
 
 # import hextra as module
 module:
