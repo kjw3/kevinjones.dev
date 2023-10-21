@@ -26,18 +26,25 @@ menu:
     - name: About
       pageRef: /about
       weight: 2
-    - name: Contact ↗
-      url: "https://github.com/kjw3"
-      weight: 3
     - name: Search
-      weight: 4
+      weight: 3
       params:
         type: search
     - name: GitHub
-      weight: 5
-      url: "https://github.com/kjw3/kevinjones.dev"
+      weight: 4
+      url: "https://github.com/kjw3"
       params:
         icon: github
+    - name: GitLab
+      weight: 5
+      url: "https://gitlab.com/kjw3/"
+      params:
+        icon: gitlab
+    - name: LinkedIn
+      weight: 6
+      url: "https://www.linkedin.com/in/kjwthree/"
+      params:
+        icon: linkedin
 
 params:
   navbar:
