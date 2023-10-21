@@ -8,9 +8,9 @@ Meddling in the cloud since 2008
 Hello tech enthusiasts! Imagine blending the explorative mindset of NASA, the open-source ethos of Red Hat, and the computational power of NVIDIA. That's what this blog aims to deliver. Expect insights, reviews, and how-tos covering the entire tech spectrum.
 
 {{< cards >}}
-  {{< card link="/posts/openshift/" title="OpenShift" image="images/openshift-arch.png" subtitle="Posts related to Red Hat OpenShift Container Platform" >}}
-  {{< card link="/posts/openstack/" title="OpenStack" image="images/openstack-software-overview-diagram-new.svg" subtitle="Posts related to OpenStack" >}}
-  {{< card link="/posts/kubernetes/" title="Kubernetes" image="images/kubernetes-arch.png" subtitle="Posts related to Kubernetes." >}}
+  {{< card link="/posts/kubernetes/" title="Kubernetes" image="images/kubernetes-logo.png" subtitle="Posts related to Kubernetes." >}}
+  {{< card link="/posts/openshift/" title="OpenShift" image="images/openshift-logo.png" subtitle="Posts related to Red Hat OpenShift Container Platform" >}}
+  {{< card link="/posts/openstack/" title="OpenStack" image="images/openstack-logo.png" subtitle="Posts related to OpenStack" >}}
 {{< /cards >}}
 
 ## Explore
