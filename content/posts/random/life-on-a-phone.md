@@ -1,5 +1,6 @@
 ---
 title: Life on a Phone
+weight: 2
 type: docs
 prev: posts/random
 next: posts/

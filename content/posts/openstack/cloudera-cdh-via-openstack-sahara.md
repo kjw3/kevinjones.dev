@@ -1,9 +1,9 @@
 ---
 title: Cloudera CDH via OpenStack Sahara
-weight: 8
+weight: 3
 type: docs
 prev: posts/openstack/openshift-4-2-on-red-hat-openstack-platform-13
-next: posts/random/
+next: posts/openstack/deploying-rdo-in-a-cohesive-manner
 sidebar:
   open: true
 ---

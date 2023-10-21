@@ -1,6 +1,6 @@
 ---
 title: Random
-weight: 20
+weight: 1
 type: docs
 prev: posts/random
 next: posts/random/life-on-a-phone

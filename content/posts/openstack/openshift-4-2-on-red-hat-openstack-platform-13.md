@@ -1,6 +1,6 @@
 ---
 title: OpenShift 4.2 on Red Hat OpenStack Platform 13
-weight: 7
+weight: 2
 type: docs
 prev: posts/openstack/
 next: posts/openstack/cloudera-cdh-via-openstack-sahara

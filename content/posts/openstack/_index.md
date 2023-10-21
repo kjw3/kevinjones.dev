@@ -1,6 +1,6 @@
 ---
 title: OpenStack
-weight: 6
+weight: 1
 type: docs
 prev: posts/openshift/openshift-4-3-bare-metal-lab
 next: posts/openstack/openshift-4-2-on-red-hat-openstack-platform-13

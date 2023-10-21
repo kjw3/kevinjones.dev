@@ -3,12 +3,12 @@ title: OpenShift 4.3 Bare Metal Lab
 weight: 5
 type: docs
 prev: posts/openshift/setup-containerized-data-importer-cdi-for-kubevirt
-next: posts/openstack/
+next: posts/openshift/openshift-4-3-bare-metal-lab
 sidebar:
   open: true
 ---
 
-![OpenShift on OpenStack Header Image](openshift-openstack-intro.png)
+![Shadowbox](shadowbox.jpeg)
 
 Quite a few years back, we started a project called Shadowbox (haha, I did not even know this [YouTube video](https://youtu.be/NOBgnnjOLPs) existed). Shadowbox is a home-built, portable lab environment. Being our first prototype, the lab was larger and more fragile than needed. However, over the years, Shadowbox taught us a ton about small form-factor, portable hardware kits. We also have learned a tremendous amount about automating Red Hat software deployments onto these kits.
 
