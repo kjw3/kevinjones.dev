@@ -1,7 +1,9 @@
 ---
 title: Cloudera CDH via OpenStack Sahara
-type: posts
-prev: posts/openshift/
+weight: 8
+type: docs
+prev: posts/openstack/openshift-4-2-on-red-hat-openstack-platform-13
+next: posts/random/
 sidebar:
   open: true
 ---

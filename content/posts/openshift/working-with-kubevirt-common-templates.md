@@ -1,7 +1,9 @@
 ---
 title: Working with Kubevirt Common Templates
+weight: 3
 type: docs
-prev: posts/openshift/
+prev: posts/openshift/introduction-to-openshift-virtualization
+next: posts/openshift/setup-containerized-data-importer-cdi-for-kubevirt
 sidebar:
   open: true
 ---

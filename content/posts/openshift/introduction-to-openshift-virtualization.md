@@ -1,8 +1,9 @@
 ---
 title: Introduction to OpenShift Virtulization
+weight: 2
 type: docs
-prev: posts/first-page
-next: posts/openshift/leaf
+prev: posts/openshift/
+next: posts/openshift/working-with-kubevirt-common-templates
 sidebar:
   open: true
 ---
