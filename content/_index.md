@@ -13,7 +13,7 @@ Hello tech enthusiasts! Imagine blending the explorative mindset of NASA, the op
   {{< card link="posts" title="Blog" icon="book-open" >}}
   {{< card link="about" title="About" icon="user" >}}
   {{< card link="https://github.com/kjw3" title="GitHub" icon="github" >}}
-  {{< card link="https://gitlab.com/kjw3" title="GitLab" icon="gitlab" >}}
+  {{< card link="https://gitlab.com/kjw3" title="GitLab" icon="code" >}}
   {{< card link="https://www.youtube.com/@kevinjones9305" title="Videos" icon="youtube" >}}
   {{< card link="https://kjw3.llc" title="KJW3, LLC" icon="external-link" >}}
 {{< /cards >}}
