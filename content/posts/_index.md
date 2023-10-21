@@ -1,7 +1,7 @@
 ---
 title: KevinJones.dev Technology Blog
 type: docs
-next: posts/openshift/
+next: posts/kubernetes/
 ---
 
 Hello, tech enthusiasts and industry pros. I'm a Director in Enterprise Computing at NVIDIA with two decades of hands-on experience. I've had the privilege to work on some of the most cutting-edge technologies and I can't wait to share what I've learned.
