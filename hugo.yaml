@@ -47,6 +47,10 @@ params:
       width: 40
       height: 20
 
+  page:
+    # full (100%), wide (90rem), normal (1280px)
+    width: full
+
   footer:
     displayCopyright: true
     displayPoweredBy: false
