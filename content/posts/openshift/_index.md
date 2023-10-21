@@ -2,7 +2,7 @@
 title: OpenShift
 weight: 1
 type: docs
-prev: posts/
+prev: posts/kubernetes/microk8s-installation.md
 next: posts/openshift/introduction-to-openshift-virtualization
 sidebar:
   open: true

@@ -3,7 +3,7 @@ title: Troubleshooting OpenShift Container Storage 4.x
 weight: 7
 type: docs
 prev: posts/openshift/installing-openshift-4-code-read-containers-on-a-macbook-pro
-next: posts/openstack/
+next: posts/openshift/openshift-4-6-on-openstack-with-gpu-operator-v1-3
 sidebar:
   open: true
 ---
