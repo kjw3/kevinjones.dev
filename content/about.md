@@ -9,7 +9,7 @@ type: about
 [GitLab](https://gitlab.com/kjw3llc)
 [LinkedIn](https://www.linkedin.com/in/kjwthree/)
 
-Currently Director, Enterprise Computing at [NVIDIA](https://nvidia.com)
+Current [NVIDIAN](https://nvidia.com)
 
 Former [Red Hatter](https://redhat.com)
 
