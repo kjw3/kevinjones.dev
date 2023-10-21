@@ -9,7 +9,7 @@ Hello tech enthusiasts! Imagine blending the explorative mindset of NASA, the op
 
 {{< cards >}}
   {{< card link="/posts/kubernetes/" title="Kubernetes" image="images/kubernetes-logo.png" subtitle="Posts related to Kubernetes." >}}
-  {{< card link="/posts/openshift/" title="OpenShift" image="images/openshift-logo.png" subtitle="Posts related to Red Hat OpenShift Container Platform" >}}
+  {{< card link="/posts/openshift/" title="OpenShift" image="images/openshift-logo.png" subtitle="Posts related to Red Hat OpenShift" >}}
   {{< card link="/posts/openstack/" title="OpenStack" image="images/openstack-logo.png" subtitle="Posts related to OpenStack" >}}
 {{< /cards >}}
 
