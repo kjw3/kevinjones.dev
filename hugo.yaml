@@ -3,6 +3,8 @@ title: kevinjones.dev
 
 baseURL: "https://kevinjones.dev/"
 
+googleAnalytics: G-ZFCRJSQHMX
+
 # import hextra as module
 module:
   imports:
