@@ -49,6 +49,12 @@ menu:
       url: "https://www.linkedin.com/in/kjwthree/"
 
 params:
+
+  theme:
+    # light | dark | system
+    default: system
+    displayToggle: true
+
   navbar:
     displayTitle: true
     displayLogo: true
